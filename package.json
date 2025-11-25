@@ -1,0 +1,20 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Fullstack NodeJS project",
+  "homepage": "https://github.com/davebmerino/nodejsbootcamp#readme",
+  "bugs": {
+    "url": "https://github.com/davebmerino/nodejsbootcamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davebmerino/nodejsbootcamp.git"
+  },
+  "license": "MIT",
+  "author": "Dave Merino",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
